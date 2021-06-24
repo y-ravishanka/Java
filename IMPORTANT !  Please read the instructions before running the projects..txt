@@ -1,0 +1,18 @@
+
+
+	Our project, NSBM Food Menu Voting and Ordering System consists of two projects.
+
+	1)User system
+
+	2)Administrator system
+
+	These two are linked together via the given database.
+
+
+
+	Before running the program please make sure that you change the 
+	database username and password in the codes found in the 
+
+	DatabaseClass of the User system and 
+
+	SQLClass of the Administrator system
